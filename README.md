@@ -4,13 +4,9 @@ hghtf
 
 
 
-
+nice
 
 etr
-
-
-
-
 
 
 
@@ -18,15 +14,6 @@ etr
 g
 
 sd
-
-
-
-
-
-
-
-
-
 
 h
 j
